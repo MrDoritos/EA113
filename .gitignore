@@ -1,3 +1,7 @@
 ROM/flashrom
 ROM/frser-duino
 ROM/MED9-EEPROM-Tool
+ROM/Med9GhidraScripts
+ROM/SGML_Object_File_reader
+__pycache__
+*.o
