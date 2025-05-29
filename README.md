@@ -23,6 +23,10 @@
 
 - https://github.com/calledit/SGML_Object_File_reader
 
+#### SA2 Seed Key
+
+- https://github.com/bri3d/sa2_seed_key
+
 #### Compiling
 
 - https://github.com/EliasKotlyar/Med9GhidraScripts
@@ -43,12 +47,17 @@
 
 - https://www.blafusel.de/obd/obd2_kw1281.html
 - https://s4wiki.com/wiki/Main_Page
+- https://www.simoswiki.com
 
 ## External files in this repo
 
 - MPC561RM-3139156.pdf
 - S32DS-POWER-v1-2-RN.pdf
 - WriteCS.pdf
+
+## Web search snippet
+
+-ebay.com -walmart.com -amazon.com -cartechnology.co.uk -facebook.com -ecuconnections.com -automotivediagsolutions.com -ecuworker.com -blog.obdii365.com -youtube.com -bflash.eu -fiestafiction.com -rusefi.com -kohls.com -nepis.epa.gov -autodiagnosticsolutions.com -adonistechnology.com
 
 ## Other (Not mentioning EVERY site on the internet)
 

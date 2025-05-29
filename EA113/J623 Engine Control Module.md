@@ -14,6 +14,20 @@ Read and write with OBD with special flash program only.
 
 https://www.st.com/resource/en/datasheet/m95160-w.pdf
 
+### ST95xxx
+
+[./EEPROM.md](EEPROM.md)
+
+### MPC562
+
+Single core powerpc e200 CPU with MPU and no internal EEPROM. There will be only [./EEPROM.md](e2p) and involatile flash.
+
+### Other
+
+- http://en.wikipedia.org/wiki/Background_Debug_Mode_interface
+- http://en.wikipedia.org/wiki/Joint_Test_Action_Group
+- https://github.com/fjvva/ecu-tool/blob/master/Portable%20Firmware/HW%20V2/ECU_Flasher_UNO_EDC16/ECU_Flasher_UNO_EDC16.ino
+
 ### My Method
 
 None of the standard EEPROM tools I was using was able to communicate with the ST95160 (the EEPROM chip on my ECU).
